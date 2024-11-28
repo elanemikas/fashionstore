@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Rakkas&family=Roboto+Slab:wght@100..900&family=Tangerine:wght@400;700&display=swap');
+
+body{
+    background-color: rgb(207, 192, 169);
+    
+}
+
+h1{
+  font-family: "Lora", serif;
+  font-style: italic;
+  text-align: center;
+  
+  
+}
+
+img{
+    width: 200px; 
+    height: 200px;
+}
+.img1, .img2{
+  margin-left: 20px;
+}
+
+ul{
+  list-style: none;
+}
+
+li{
+  display: inline-block;
+  background-color: rgb(107, 83, 46);
+  border-radius: 10px;
+  padding: 10px;
+  margin-left: 540px;
+}
+
+li a{
+  text-decoration: none;
+  color: blanchedalmond;
+
+}
+
